@@ -1,7 +1,6 @@
 <h2>Dwayne Sutherland<h2/>
-<h5 color="gray">@Delta-a-Sierra<h5>
-<br/>
-<h1>self-taught developer based in London, currently looking for work as a FullStack Developer.<h1/>
+
+<h1>Self-taught developer based in London, currently looking for work as a FullStack Developer.<h1/>
 <br/>
 <br/>
 
