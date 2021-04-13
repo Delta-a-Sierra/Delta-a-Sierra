@@ -1,6 +1,6 @@
 <h4>Dwayne Sutherland<h4/>
 
-<h1>London based, currently looking for work as a Front End Developer (React).<h1/>
+<h1>London based Developer, currently looking for work as a Fullstack web developer.<h1/>
 
 <br/>
 <br/>
