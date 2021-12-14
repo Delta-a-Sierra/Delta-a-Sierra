@@ -1,6 +1,6 @@
 <h4>Dwayne Sutherland<h4/>
 
-<h1>London based Engineer, currently looking for work as a Junior DevOps Engineer.<h1/>
+<h1>London based Engineer, currently looking for work as a DevOps Engineer.<h1/>
 
 <br/>
 <br/>
