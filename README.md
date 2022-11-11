@@ -61,7 +61,7 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-### :book: Certification
+### :book: Certifications
 
 <p align="center">
   &emsp;
