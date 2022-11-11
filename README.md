@@ -26,17 +26,6 @@
 
 </p>
 
-### 👉 Software & Tools
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="Terraform" style="width:4rem" src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/terraform-eyecatch-960x504.png"></a>
-  &emsp;
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-</p>
-
 ### 👉 Frontend Development
 
 <p align="center"> 
@@ -52,13 +41,26 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">      
 </p>
 
-### 👉 Operating Systems
+### 👉 Software & Tools
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+      &emsp;
+    <a href="#"><img alt="Terraform" style="width:4rem" src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/terraform-eyecatch-960x504.png"></a>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+</p>
+
+### :book: Certifications
+
+<p align="center">
+  &emsp;
+    <a target="_blank" href="https://www.credly.com/badges/5b1087e4-2b78-466e-b60d-87f726d826ea/public_url"><img alt="AWS Solutions Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/blob/certifications/images/aws-solutions-associate.png" style="width: 84px; height: 84px;"></a>
+  &emsp;
+    <a target="_blank" href="#"><img alt="Azure Administrator" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/blob/certifications/images/azure-admin.png" style="width: 84px; height: 84px;"></a>
+  &emsp;
+    <a target="_blank" href="https://www.credly.com/badges/c14d6141-24aa-49e5-9364-5d226a279f48/public_url"><img alt="Terraform Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/blob/certifications/images/terraform-associate.png" style="width: 84px; height: 84px;"></a>
 </p>
 
 <br/>
@@ -86,7 +88,7 @@
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <p align="center">
-	<a href="mailto:dwayneasutherland@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a  href="mailto:dwayneasutherland@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Delta-a-Sierra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/dwayne-sutherland-207a01157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
