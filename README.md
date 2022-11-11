@@ -52,15 +52,6 @@
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 </p>
 
-### 👉 Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
-
 ### :book: Certifications
 
 <p align="center">
