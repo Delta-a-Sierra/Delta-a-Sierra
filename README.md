@@ -61,15 +61,15 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-### :Book: Certification
+### :book: Certification
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="AWS Solutions Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/images/aws-solutions-associate.png"></a>
+    <a target="_blank" href="https://www.credly.com/badges/5b1087e4-2b78-466e-b60d-87f726d826ea/public_url"><img alt="AWS Solutions Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/blob/certifications/images/aws-solutions-associate.png" style="width: 84px; height: 84px;"></a>
   &emsp;
-    <a href="#"><img alt="Azure Administrator" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/images/azure-admin.png"></a>
+    <a target="_blank" href="#"><img alt="Azure Administrator" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/blob/certifications/images/azure-admin.png" style="width: 84px; height: 84px;"></a>
   &emsp;
-    <a href="#"><img alt="Terraform Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/images/terraform-associate.png"></a>
+    <a target="_blank" href="https://www.credly.com/badges/c14d6141-24aa-49e5-9364-5d226a279f48/public_url"><img alt="Terraform Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/blob/certifications/images/terraform-associate.png" style="width: 84px; height: 84px;"></a>
 </p>
 
 <br/>
@@ -97,7 +97,7 @@
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <p align="center">
-	<a href="mailto:dwayneasutherland@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a  href="mailto:dwayneasutherland@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Delta-a-Sierra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/dwayne-sutherland-207a01157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
