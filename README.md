@@ -26,17 +26,6 @@
 
 </p>
 
-### 👉 Software & Tools
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="Terraform" style="width:4rem" src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/terraform-eyecatch-960x504.png"></a>
-  &emsp;
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-</p>
-
 ### 👉 Frontend Development
 
 <p align="center"> 
@@ -52,6 +41,17 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">      
 </p>
 
+### 👉 Software & Tools
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+      &emsp;
+    <a href="#"><img alt="Terraform" style="width:4rem" src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/terraform-eyecatch-960x504.png"></a>
+  &emsp;
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+</p>
+
 ### 👉 Operating Systems
 
 <p align="center">
@@ -59,6 +59,17 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+
+### :Book: Certification
+
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="AWS Solutions Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/images/aws-solutions-associate.png"></a>
+  &emsp;
+    <a href="#"><img alt="Azure Administrator" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/images/azure-admin.png"></a>
+  &emsp;
+    <a href="#"><img alt="Terraform Associate" src="https://github.com/Delta-a-Sierra/Delta-a-Sierra/images/terraform-associate.png"></a>
 </p>
 
 <br/>
