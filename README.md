@@ -31,13 +31,7 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       &emsp;
-    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"></a>
-          &emsp;
     <a href="#"><img alt="Terraform" style="width:4rem" src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2019/05/terraform-eyecatch-960x504.png"></a>
 </p>
 
